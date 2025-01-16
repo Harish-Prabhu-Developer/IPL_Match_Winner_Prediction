@@ -3,9 +3,6 @@
     <img align="center" alt="IPL"  width="full" height="500" src="https://static.toiimg.com/thumb/msid-108684102,width-1280,height-720,imgsize-194624,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg">
 </div>
 
-<img align="center" alt="IPL"  width="full" height="500" src="https://github.com/user-attachments/assets/313a17c5-ff6a-4bc4-854c-88ebbf128280">
-
-
 ## ABSTRACT
 <p align="justify">    Predicting the outcome of Indian Premier League (IPL) matches using machine learning algorithms has significant interest due to its potential to enhance strategic decision-making and fan engagement. In this paper, K-Means clustering are used to group the players based on their performance. Four classifiers namely, Random Forest, Decision Tree, Gaussian Naïve Bayes and Logistic Regression are used to develop predictive models. </p>
 
@@ -58,7 +55,10 @@
 <p align="justify">The dataset used in this research collected from the Kaggle website. In this paper there are two types of datasets. One is the IPL Match dataset, and another is the ball-by-ball dataset. The data set is a historical data from 2008 to 2022. Figure 3.1 and 3.2 represents the dataset description. Loading dataset to summarize the datatype and not null counts in Figure 3.3. 
 Figure 3.4 represents the extracted features of the batsman's strike rate and average. 
 </p>
-
+<div align="center">
+    <img align="center" alt="IPL"  width="full" height="500" src="https://github.com/user-attachments/assets/313a17c5-ff6a-4bc4-854c-88ebbf128280">
+    <h6>Fig 3.1 Viewing Match Datasets</h6>
+</div>
 
 ### Use Payload on the Following example
 
