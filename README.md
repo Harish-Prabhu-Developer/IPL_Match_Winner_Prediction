@@ -1,5 +1,10 @@
 # IPL Match Winner Prediction 
 
+## ABSTRACT
+<p>Predicting the outcome of Indian Premier League (IPL) matches using machine learning algorithms has significant interest due to its potential to enhance strategic decision-making and fan engagement. In this paper, K-Means clustering are used to group the players based on their performance. Four classifiers namely, Random Forest, Decision Tree, Gaussian Naïve Bayes and Logistic Regression are used to develop predictive models. </p>
+
+
+
 ### Use Payload on the Following example
 
 ```bash
