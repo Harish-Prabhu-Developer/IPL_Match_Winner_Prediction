@@ -4,23 +4,46 @@
 </div>
 
 ## ABSTRACT
-<p align="justify">Predicting the outcome of Indian Premier League (IPL) matches using machine learning algorithms has significant interest due to its potential to enhance strategic decision-making and fan engagement. In this paper, K-Means clustering are used to group the players based on their performance. Four classifiers namely, Random Forest, Decision Tree, Gaussian Naïve Bayes and Logistic Regression are used to develop predictive models. </p>
+<ul>
+    <li>
+        <p align="justify">Predicting the outcome of Indian Premier League (IPL) matches using machine learning algorithms has significant interest due to its potential to enhance strategic decision-making and fan engagement. In this paper, K-Means clustering are used to group the players based on their performance. Four classifiers namely, Random Forest, Decision Tree, Gaussian Naïve Bayes and Logistic Regression are used to develop predictive models. </p>
+    </li>
+</ul>
 
 ## METHODOLOGY
-<p align="justify">The proposed method has four phases namely i. Data Cleaning, ii. Feature Extraction, iii. Clustering Players based on the performance, and iv. Prediction. In this work, K-Means clustering algorithm is considered for finding the best player based performance. Four classification algorithms namely Random Forest, Decision Tree, Gaussian Naive Bayes and Logistic Regression are considered for the results and experiments. Figure 3.1 represents the flow diagram of proposed method.</p>
+<ul>
+    <li>
+        <p align="justify">The proposed method has four phases namely i. Data Cleaning, ii. Feature Extraction, iii. Clustering Players based on the performance, and iv. Prediction. In this work, K-Means clustering algorithm is considered for finding the best player based performance. Four classification algorithms namely Random Forest, Decision Tree, Gaussian Naive Bayes and Logistic Regression are considered for the results and experiments. Figure 3.1 represents the flow diagram of proposed method.</p>
+    </li>
+</ul>
 
 #### i. Data Cleaning
-<p align="justify">Data cleaning is the process of removing unwanted columns and missing values from the raw data. In this phase, if the row contains null values, missing values and NaN values then the columns are removed. The cleaned data is fed into the feature extraction phase.</p>
+<ul>
+    <li>
+        <p align="justify">Data cleaning is the process of removing unwanted columns and missing values from the raw data. In this phase, if the row contains null values, missing values and NaN values then the columns are removed. The cleaned data is fed into the feature extraction phase.</p>
+    </li>
+</ul>
 
 #### ii. Feature Extraction
-<p align="justify">In this phase, significant features are extracted using the pandas library. The features are extracted based on the player faced the balls, innings, runs, player out, batting average of batsman and  batting strike rate of batsman. The selected features are used to find the best players using k-means clustering.</p>
+<ul>
+    <li>
+        <p align="justify">In this phase, significant features are extracted using the pandas library. The features are extracted based on the player faced the balls, innings, runs, player out, batting average of batsman and  batting strike rate of batsman. The selected features are used to find the best players using k-means clustering.</p>
+    </li>
+</ul>
 
 #### iii. Clustered Best player based on performance
+<ul>
+    <li>
 <p align="justify">In this phase, the players are grouped using K-Means clustering based on their performance metrics namely batting average and bowling economy.</p>
+    </li>
+</ul>   
 
 #### iv. Winning Prediction
-<p align="justify">In this phare, four classification algorithms were employed to forecast the output of clustered phare data. Random Forest yielded an accuracy of 99.89% in our experiments, followed by Decision Tree with 99.56%. Logistic Regression achieved an accuracy of 80.19%, while Gaussian Naive Bayes attained 63.93%. Notably, Random Forest outperformed the other algorithms, delivering the most accurate results.</p>
-
+<ul>
+    <li>
+        <p align="justify">In this phare, four classification algorithms were employed to forecast the output of clustered phare data. Random Forest yielded an accuracy of 99.89% in our experiments, followed by Decision Tree with 99.56%. Logistic Regression achieved an accuracy of 80.19%, while Gaussian Naive Bayes attained 63.93%. Notably, Random Forest outperformed the other algorithms, delivering the most accurate results.</p>
+    </li>
+</ul>
 
 ###### 6.1 Decision Tree Algorithm
 <ul>
@@ -52,9 +75,13 @@
 </ul>
 
 #### IV. Results and Discussion
-<p align="justify">The dataset used in this research collected from the Kaggle website. In this paper there are two types of datasets. One is the IPL Match dataset, and another is the ball-by-ball dataset. The data set is a historical data from 2008 to 2022. Figure 3.1 and 3.2 represents the dataset description. Loading dataset to summarize the datatype and not null counts in Figure 3.3. 
+<ul>
+    <li>
+        <p align="justify">The dataset used in this research collected from the Kaggle website. In this paper there are two types of datasets. One is the IPL Match dataset, and another is the ball-by-ball dataset. The data set is a historical data from 2008 to 2022. Figure 3.1 and 3.2 represents the dataset description. Loading dataset to summarize the datatype and not null counts in Figure 3.3. 
 Figure 3.4 represents the extracted features of the batsman's strike rate and average. 
 </p>
+    </li>
+</ul>
 
 <div align="center">
     <img align="center" alt="Match Datasets"  width="full" height="full" src="https://github.com/user-attachments/assets/6e6a41db-cbd3-4706-b8e9-c2b36f024a78">
@@ -68,7 +95,11 @@ Figure 3.4 represents the extracted features of the batsman's strike rate and av
     <img align="center" alt="Summary"  width="full" height="full" src="https://github.com/user-attachments/assets/313a17c5-ff6a-4bc4-854c-88ebbf128280">
     <h3>Fig 3.3 Data Summary</h3>
 </div>
-<p align="justify">Then Figure 3.5 represents the performance metrics of the match's, runs, balls, batsman strike rate, batsman average, catches, player of the match, bowler strike rate, bowler economy, innings, and not out. Then the above data will be clustered using the K-Means that are shown in Figure 3.7. Finally, predict the winner by comparing four classification algorithms. The results are shown in Table 3.1 and Figure 3.8. Figure 3.9 represents the prediction on test data.</p>
+<ul>
+    <li>
+        <p align="justify">Then Figure 3.5 represents the performance metrics of the match's, runs, balls, batsman strike rate, batsman average, catches, player of the match, bowler strike rate, bowler economy, innings, and not out. Then the above data will be clustered using the K-Means that are shown in Figure 3.7. Finally, predict the winner by comparing four classification algorithms. The results are shown in Table 3.1 and Figure 3.8. Figure 3.9 represents the prediction on test data.</p>
+    </li>
+</ul>
 <div align="center">
     <img align="center" alt="Feature Extraction"  width="full" height="full" src="https://github.com/user-attachments/assets/f61e7858-97e9-4204-84f3-e8c5fc88a740">
     <h3>Fig 3.4 Feature Extraction</h3>
@@ -95,8 +126,11 @@ Figure 3.4 represents the extracted features of the batsman's strike rate and av
 </div>
 
 ## CONCLUSION
-<p align="justify">Proposed method used K-Means clustering algorithm to identify top player performances. Four classification algorithms are used to predict the outcomes. From the experiments results, Random Forest and Decision Tree classifiers provides 99.89% and 99.56% accuracy, while the Logistic Regression classifier achieved 80.19% and the Gaussian Naive Bayes classifier achieved 63.93%. The findings suggest that the Random Forest algorithm is the most effective for predicting IPL match winners.</p>
-
+<ul>
+    <li>
+        <p align="justify">Proposed method used K-Means clustering algorithm to identify top player performances. Four classification algorithms are used to predict the outcomes. From the experiments results, Random Forest and Decision Tree classifiers provides 99.89% and 99.56% accuracy, while the Logistic Regression classifier achieved 80.19% and the Gaussian Naive Bayes classifier achieved 63.93%. The findings suggest that the Random Forest algorithm is the most effective for predicting IPL match winners.</p>
+    </li>
+</ul>
 ### Use Payload on the Following example
 
 ```bash
