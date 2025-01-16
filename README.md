@@ -94,6 +94,9 @@ Figure 3.4 represents the extracted features of the batsman's strike rate and av
     <h3>Fig 3.9 Prediction</h3>
 </div>
 
+## CONCLUSION
+<p align="justify">Proposed method used K-Means clustering algorithm to identify top player performances. Four classification algorithms are used to predict the outcomes. From the experiments results, Random Forest and Decision Tree classifiers provides 99.89% and 99.56% accuracy, while the Logistic Regression classifier achieved 80.19% and the Gaussian Naive Bayes classifier achieved 63.93%. The findings suggest that the Random Forest algorithm is the most effective for predicting IPL match winners.</p>
+
 ### Use Payload on the Following example
 
 ```bash
