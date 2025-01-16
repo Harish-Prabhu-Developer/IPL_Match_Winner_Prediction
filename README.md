@@ -1,6 +1,6 @@
 # IPL Match Winner Prediction 
 <div align="center">
-    <img align="center" alt="IPL"  width="full" height="500" src="[https://user-images.githubusercontent.com/84333971/233634060-d36452f7-4d72-4065-9178-f96550976dc6.jpg](https://preview.redd.it/captains-with-ipl-trophy-2023-v0-fbmfeoc3ewqa1.jpg?auto=webp&s=62138a211142f19a4d6b9f5bc42450f6d7f2106a)">
+    <img align="center" alt="IPL"  width="full" height="500" src="https://static.toiimg.com/thumb/msid-108684102,width-1280,height-720,imgsize-194624,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg">
 </div>
 ## ABSTRACT
 <p align="justify">    Predicting the outcome of Indian Premier League (IPL) matches using machine learning algorithms has significant interest due to its potential to enhance strategic decision-making and fan engagement. In this paper, K-Means clustering are used to group the players based on their performance. Four classifiers namely, Random Forest, Decision Tree, Gaussian Naïve Bayes and Logistic Regression are used to develop predictive models. </p>
