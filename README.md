@@ -57,7 +57,7 @@ Figure 3.4 represents the extracted features of the batsman's strike rate and av
 </p>
 
 <div align="center">
-    <img align="center" alt="Match Datasets"  width="full" height="300" src="https://github.com/user-attachments/assets/6e6a41db-cbd3-4706-b8e9-c2b36f024a78">
+    <img align="center" alt="Match Datasets"  width="full" height="150" src="https://github.com/user-attachments/assets/6e6a41db-cbd3-4706-b8e9-c2b36f024a78">
     <h3>Fig 3.1 Viewing Match Datasets</h3>
 </div>
 <div align="center">
