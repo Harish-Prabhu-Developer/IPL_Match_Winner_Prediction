@@ -57,7 +57,7 @@ Figure 3.4 represents the extracted features of the batsman's strike rate and av
 </p>
 <div align="center">
     <img align="center" alt="IPL"  width="full" height="500" src="https://github.com/user-attachments/assets/313a17c5-ff6a-4bc4-854c-88ebbf128280">
-    <h6>Fig 3.1 Viewing Match Datasets</h6>
+    <h3>Fig 3.1 Viewing Match Datasets</h3>
 </div>
 
 ### Use Payload on the Following example
