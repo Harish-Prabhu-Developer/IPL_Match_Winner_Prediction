@@ -2,7 +2,8 @@
 <div align="center">
     <img align="center" alt="IPL"  width="full" height="500" src="https://static.toiimg.com/thumb/msid-108684102,width-1280,height-720,imgsize-194624,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg">
 </div>
-<img align="center" alt="IPL"  width="full" height="100" src="https://github.com/user-attachments/assets/313a17c5-ff6a-4bc4-854c-88ebbf128280">
+
+<img align="center" alt="IPL"  width="full" height="500" src="https://github.com/user-attachments/assets/313a17c5-ff6a-4bc4-854c-88ebbf128280">
 
 
 ## ABSTRACT
