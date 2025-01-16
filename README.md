@@ -55,9 +55,43 @@
 <p align="justify">The dataset used in this research collected from the Kaggle website. In this paper there are two types of datasets. One is the IPL Match dataset, and another is the ball-by-ball dataset. The data set is a historical data from 2008 to 2022. Figure 3.1 and 3.2 represents the dataset description. Loading dataset to summarize the datatype and not null counts in Figure 3.3. 
 Figure 3.4 represents the extracted features of the batsman's strike rate and average. 
 </p>
+
 <div align="center">
-    <img align="center" alt="IPL"  width="full" height="500" src="https://github.com/user-attachments/assets/313a17c5-ff6a-4bc4-854c-88ebbf128280">
+    <img align="center" alt="Match Datasets"  width="full" height="500" src="https://github.com/user-attachments/assets/6e6a41db-cbd3-4706-b8e9-c2b36f024a78">
     <h3>Fig 3.1 Viewing Match Datasets</h3>
+</div>
+<div align="center">
+    <img align="center" alt="Ball-by-Ball Datasets"  width="full" height="500" src="https://github.com/user-attachments/assets/212bdfa7-77cb-425e-97c9-d45cbf778048">
+    <h3>Fig 3.2 Viewing Ball-by-Ball Datasets</h3>
+</div>
+<div align="center">
+    <img align="center" alt="Summary"  width="full" height="500" src="https://github.com/user-attachments/assets/313a17c5-ff6a-4bc4-854c-88ebbf128280">
+    <h3>Fig 3.3 Data Summary</h3>
+</div>
+<p align="justify">Then Figure 3.5 represents the performance metrics of the match's, runs, balls, batsman strike rate, batsman average, catches, player of the match, bowler strike rate, bowler economy, innings, and not out. Then the above data will be clustered using the K-Means that are shown in Figure 3.7. Finally, predict the winner by comparing four classification algorithms. The results are shown in Table 3.1 and Figure 3.8. Figure 3.9 represents the prediction on test data.</p>
+<div align="center">
+    <img align="center" alt="Feature Extraction"  width="full" height="500" src="https://github.com/user-attachments/assets/f61e7858-97e9-4204-84f3-e8c5fc88a740">
+    <h3>Fig 3.4 Feature Extraction</h3>
+</div>
+<div align="center">
+    <img align="center" alt="Team Performance"  width="full" height="500" src="https://github.com/user-attachments/assets/6cbd3ff9-587a-4804-8c75-c0a5c322ea6e">
+    <h3>Fig 3.5 Team Performance</h3>
+</div>
+<div align="center">
+    <img align="center" alt="Performance metrics"  width="full" height="500" src="https://github.com/user-attachments/assets/af701fe1-2f16-4721-8ad5-ed673717fce2">
+    <h3>Fig 3.6 Performance metrics</h3>
+</div>
+<div align="center">
+    <img align="center" alt="K-Means Cluster"  width="full" height="500" src="https://github.com/user-attachments/assets/27ca02a3-2bd6-4ff9-9d4e-de94671a311c">
+    <h3>Fig 3.7 K-Means Cluster</h3>
+</div>
+<div align="center">
+    <img align="center" alt="Visualizing Accuracy"  width="full" height="500" src="https://github.com/user-attachments/assets/733a1a16-b205-4429-96a9-97cd84609b84">
+    <h3>Fig 3.8 Visualizing Accuracy</h3>
+</div>
+<div align="center">
+    <img align="center" alt="Prediction"  width="full" height="500" src="https://github.com/user-attachments/assets/941b6ea5-a073-4622-80d6-090e2974ee8a">
+    <h3>Fig 3.9 Prediction</h3>
 </div>
 
 ### Use Payload on the Following example
