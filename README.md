@@ -1,4 +1,4 @@
-# IPL_Match_Winner_Prediction 
+# IPL Match Winner Prediction 
 
 ### Use Payload on the Following example
 
