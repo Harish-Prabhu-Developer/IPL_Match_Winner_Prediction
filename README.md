@@ -2,6 +2,7 @@
 <div align="center">
     <img align="center" alt="IPL"  width="full" height="500" src="https://static.toiimg.com/thumb/msid-108684102,width-1280,height-720,imgsize-194624,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg">
 </div>
+
 ## ABSTRACT
 <p align="justify">    Predicting the outcome of Indian Premier League (IPL) matches using machine learning algorithms has significant interest due to its potential to enhance strategic decision-making and fan engagement. In this paper, K-Means clustering are used to group the players based on their performance. Four classifiers namely, Random Forest, Decision Tree, Gaussian Naïve Bayes and Logistic Regression are used to develop predictive models. </p>
 
