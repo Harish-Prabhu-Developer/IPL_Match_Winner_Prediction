@@ -1,6 +1,8 @@
 # IPL_Match_Winner_Prediction 
 
 ### Use Payload on the Following example
+
+```bash
 {
     "BattingTeam": "Chennai Super Kings",
     "BowlingTeam": "Mumbai Indians",
@@ -12,6 +14,7 @@
     "required_run_rate": 10,
     "target": 173
 }
+```
 
 
 ### And only use the Team Name Must on the Following Content
