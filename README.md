@@ -28,13 +28,33 @@
         <p align="justify">Decision Tree is a supervised learning technique that can be used for classification.</p>
     </li>
 </ul>
-###### 6.2 Random Forest Algorithm
 
+###### 6.2 Random Forest Algorithm
 <ul>
     <li>
         <p align="justify">Random Forest is a popular machine learning algorithm that belongs to the supervised learning technique. </p>
     </li>
 </ul>
+
+###### 6.3 Logistic Regression Algorithm
+<ul>
+    <li>
+        <p align="justify">Logistic regression algorithm is used for predicting the categorical dependent variable using a given set of independent variables. Logistic regression predicts the output of a categorical dependent variable. </p>
+    </li>
+</ul>
+
+
+###### 6.4 Gaussian Naive Bayes Algorithm
+<ul>
+    <li>
+        <p align="justify">Gaussian Naive Bayes is a type of Naive Bayes method where continuous attributes are considered and the data features follow a Gaussian distribution throughout the dataset. </p>
+    </li>
+</ul>
+
+#### IV. Results and Discussion
+<p align="justify">The dataset used in this research collected from the Kaggle website. In this paper there are two types of datasets. One is the IPL Match dataset, and another is the ball-by-ball dataset. The data set is a historical data from 2008 to 2022. Figure 3.1 and 3.2 represents the dataset description. Loading dataset to summarize the datatype and not null counts in Figure 3.3. 
+Figure 3.4 represents the extracted features of the batsman's strike rate and average. 
+</p>
 
 
 ### Use Payload on the Following example
