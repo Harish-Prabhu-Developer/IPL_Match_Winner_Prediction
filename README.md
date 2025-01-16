@@ -9,9 +9,26 @@
 ## METHODOLOGY
 <p align="justify">    The proposed method has four phases namely i. Data Cleaning, ii. Feature Extraction, iii. Clustering Players based on the performance, and iv. Prediction. In this work, K-Means clustering algorithm is considered for finding the best player based performance. Four classification algorithms namely Random Forest, Decision Tree, Gaussian Naive Bayes and Logistic Regression are considered for the results and experiments. Figure 3.1 represents the flow diagram of proposed method.</p>
 
-#### Data Cleaning
+#### i. Data Cleaning
 <p align="justify">Data cleaning is the process of removing unwanted columns and missing values from the raw data. In this phase, if the row contains null values, missing values and NaN values then the columns are removed. The cleaned data is fed into the feature extraction phase.</p>
-    
+
+#### ii. Feature Extraction
+<p align="justify">In this phase, significant features are extracted using the pandas library. The features are extracted based on the player faced the balls, innings, runs, player out, batting average of batsman and  batting strike rate of batsman. The selected features are used to find the best players using k-means clustering.</p>
+
+#### iii. Clustered Best player based on performance
+<p align="justify">In this phase, the players are grouped using K-Means clustering based on their performance metrics namely batting average and bowling economy.</p>
+
+#### iv. Winning Prediction
+<p align="justify">In this phare, four classification algorithms were employed to forecast the output of clustered phare data. Random Forest yielded an accuracy of 99.89% in our experiments, followed by Decision Tree with 99.56%. Logistic Regression achieved an accuracy of 80.19%, while Gaussian Naive Bayes attained 63.93%. Notably, Random Forest outperformed the other algorithms, delivering the most accurate results.</p>
+
+
+###### 6.1 Decision Tree Algorithm
+<p align="justify">Decision Tree is a supervised learning technique that can be used for classification.</p>
+
+###### 6.2 Random Forest Algorithm
+<p align="justify">Random Forest is a popular machine learning algorithm that belongs to the supervised learning technique. </p>
+
+
 ### Use Payload on the Following example
 
 ```bash
