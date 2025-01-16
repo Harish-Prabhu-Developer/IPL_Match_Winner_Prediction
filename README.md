@@ -23,10 +23,18 @@
 
 
 ###### 6.1 Decision Tree Algorithm
-<p align="justify">Decision Tree is a supervised learning technique that can be used for classification.</p>
-
+<ul>
+    <li>
+        <p align="justify">Decision Tree is a supervised learning technique that can be used for classification.</p>
+    </li>
+</ul>
 ###### 6.2 Random Forest Algorithm
-<p align="justify">Random Forest is a popular machine learning algorithm that belongs to the supervised learning technique. </p>
+
+<ul>
+    <li>
+        <p align="justify">Random Forest is a popular machine learning algorithm that belongs to the supervised learning technique. </p>
+    </li>
+</ul>
 
 
 ### Use Payload on the Following example
