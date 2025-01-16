@@ -15,14 +15,17 @@
 
 
 ### And only use the Team Name Must on the Following Content
-
-'Rajasthan Royals',
-'Royal Challengers Bangalore',
-'Sunrisers Hyderabad',
-'Delhi Capitals',
-'Chennai Super Kings',
-'Gujarat Titans',
-'Lucknow Super Giants',
-'Kolkata Knight Riders',
-'Punjab Kings',
-'Mumbai Indians'
+<div>
+    <ul>
+        <li>Rajasthan Royals</li>
+        <li>Royal Challengers Bangalore</li>
+        <li>Sunrisers Hyderabad</li>
+        <li>Delhi Capitals</li>
+        <li>Chennai Super Kings</li>
+        <li>Gujarat Titans</li>
+        <li>Lucknow Super Giants</li>
+        <li>Kolkata Knight Riders</li>
+        <li>Punjab Kings</li>
+        <li>Mumbai Indians</li>
+    </ul>
+</div>
