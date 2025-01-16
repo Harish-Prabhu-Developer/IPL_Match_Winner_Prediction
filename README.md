@@ -9,6 +9,11 @@
 ## METHODOLOGY
 <p align="justify">    The proposed method has four phases namely i. Data Cleaning, ii. Feature Extraction, iii. Clustering Players based on the performance, and iv. Prediction. In this work, K-Means clustering algorithm is considered for finding the best player based performance. Four classification algorithms namely Random Forest, Decision Tree, Gaussian Naive Bayes and Logistic Regression are considered for the results and experiments. Figure 3.1 represents the flow diagram of proposed method.</p>
 
+<ol>
+    <li>Data Cleaning</li>
+    <p align="justify">Data cleaning is the process of removing unwanted columns and missing values from the raw data. In this phase, if the row contains null values, missing values and NaN values then the columns are removed. The cleaned data is fed into the feature extraction phase.</p>
+</ol>
+
 ### Use Payload on the Following example
 
 ```bash
