@@ -1,10 +1,6 @@
 # IPL_Match_Winner_Prediction 
 
-
-
-
-
-#Use Payload on the Following example
+### Use Payload on the Following example
 {
     "BattingTeam": "Chennai Super Kings",
     "BowlingTeam": "Mumbai Indians",
@@ -18,7 +14,7 @@
 }
 
 
-#And only use the Team Name Must on the Following Content
+### And only use the Team Name Must on the Following Content
 
 'Rajasthan Royals',
 'Royal Challengers Bangalore',
