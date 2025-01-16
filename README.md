@@ -165,5 +165,3 @@ Figure 3.4 represents the extracted features of the batsman's strike rate and av
     </ul>
 </div>
 
-# Word File For Our Paper
- 
